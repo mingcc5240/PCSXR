@@ -1,0 +1,13 @@
+﻿  connection.c
+  fifo.c
+D:\2024\psx\pcsxr\plugins\bladesio1\connection.c(28,10): error C1083: 포함 파일을 열 수 없습니다. 'sys/socket.h': No such file or directory
+D:\2024\psx\pcsxr\plugins\bladesio1\fifo.c(26,10): error C1083: 포함 파일을 열 수 없습니다. 'psemu_plugin_defs.h': No such file or directory
+  sio1.c
+D:\2024\psx\pcsxr\plugins\bladesio1\sio1.c(33,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  cfg-winapi.c
+D:\2024\psx\pcsxr\win32\plugins\bladesio1\winsrc\stdafx.h(28,10): error C1083: 포함 파일을 열 수 없습니다. 'resource.h': No such file or directory
+  winmain.c
+  (소스 파일 'winsrc/cfg-winapi.c'을(를) 컴파일하는 중)
+  
+D:\2024\psx\pcsxr\win32\plugins\bladesio1\winsrc\winmain.c(20,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  코드를 생성하고 있습니다...

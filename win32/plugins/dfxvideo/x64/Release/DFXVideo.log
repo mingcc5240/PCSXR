@@ -1,0 +1,32 @@
+﻿  cfg.c
+  draw.c
+  fps.c
+D:\2024\psx\pcsxr\win32\plugins\dfxvideo\winsrc\cfg.c(21,10): error C1083: 포함 파일을 열 수 없습니다. 'externals.h': No such file or directory
+D:\2024\psx\pcsxr\win32\plugins\dfxvideo\winsrc\draw.c(21,10): error C1083: 포함 파일을 열 수 없습니다. 'externals.h': No such file or directory
+D:\2024\psx\pcsxr\win32\plugins\dfxvideo\winsrc\fps.c(21,10): error C1083: 포함 파일을 열 수 없습니다. 'externals.h': No such file or directory
+  key.c
+D:\2024\psx\pcsxr\win32\plugins\dfxvideo\winsrc\key.c(21,10): error C1083: 포함 파일을 열 수 없습니다. 'externals.h': No such file or directory
+  record.c
+D:\2024\psx\pcsxr\win32\plugins\dfxvideo\winsrc\record.c(19,10): error C1083: 포함 파일을 열 수 없습니다. 'externals.h': No such file or directory
+  winmain.c
+D:\2024\psx\pcsxr\win32\plugins\dfxvideo\winsrc\winmain.c(19,10): error C1083: 포함 파일을 열 수 없습니다. 'externals.h': No such file or directory
+  dxguid.c
+  gpu.c
+D:\2024\psx\pcsxr\plugins\dfxvideo\gpu.c(19,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  menu.c
+D:\2024\psx\pcsxr\plugins\dfxvideo\externals.h(97,10): error C1083: 포함 파일을 열 수 없습니다. 'sys/time.h': No such file or directory
+  prim.c
+  (소스 파일 '../../../plugins/dfxvideo/menu.c'을(를) 컴파일하는 중)
+  
+D:\2024\psx\pcsxr\plugins\dfxvideo\externals.h(97,10): error C1083: 포함 파일을 열 수 없습니다. 'sys/time.h': No such file or directory
+  (소스 파일 '../../../plugins/dfxvideo/prim.c'을(를) 컴파일하는 중)
+  
+  soft.c
+D:\2024\psx\pcsxr\plugins\dfxvideo\externals.h(97,10): error C1083: 포함 파일을 열 수 없습니다. 'sys/time.h': No such file or directory
+  (소스 파일 '../../../plugins/dfxvideo/soft.c'을(를) 컴파일하는 중)
+  
+  zn.c
+D:\2024\psx\pcsxr\plugins\dfxvideo\externals.h(97,10): error C1083: 포함 파일을 열 수 없습니다. 'sys/time.h': No such file or directory
+  (소스 파일 '../../../plugins/dfxvideo/zn.c'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

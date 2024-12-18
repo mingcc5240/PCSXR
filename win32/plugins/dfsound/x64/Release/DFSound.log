@@ -1,0 +1,42 @@
+﻿  cfg.c
+  debug.c
+  dsound.c
+D:\2024\psx\pcsxr\win32\plugins\dfsound\winsrc\cfg.c(19,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+D:\2024\psx\pcsxr\win32\plugins\dfsound\winsrc\debug.c(33,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+D:\2024\psx\pcsxr\win32\plugins\dfsound\winsrc\dsound.c(30,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  psemu.c
+D:\2024\psx\pcsxr\win32\plugins\dfsound\winsrc\psemu.c(22,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  record.c
+D:\2024\psx\pcsxr\win32\plugins\dfsound\winsrc\record.c(30,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  winmain.c
+D:\2024\psx\pcsxr\win32\plugins\dfsound\winsrc\winmain.c(22,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  adsr.c
+D:\2024\psx\pcsxr\plugins\dfsound\stdafx.h(39,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  dma.c
+  (소스 파일 '../../../plugins/dfsound/adsr.c'을(를) 컴파일하는 중)
+  
+D:\2024\psx\pcsxr\plugins\dfsound\stdafx.h(39,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  (소스 파일 '../../../plugins/dfsound/dma.c'을(를) 컴파일하는 중)
+  
+  externals.c
+  freeze.c
+D:\2024\psx\pcsxr\plugins\dfsound\stdafx.h(39,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  (소스 파일 '../../../plugins/dfsound/freeze.c'을(를) 컴파일하는 중)
+  
+  registers.c
+D:\2024\psx\pcsxr\plugins\dfsound\stdafx.h(39,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  (소스 파일 '../../../plugins/dfsound/registers.c'을(를) 컴파일하는 중)
+  
+  reverb.c
+D:\2024\psx\pcsxr\plugins\dfsound\stdafx.h(39,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  (소스 파일 '../../../plugins/dfsound/reverb.c'을(를) 컴파일하는 중)
+  
+  spu.c
+D:\2024\psx\pcsxr\plugins\dfsound\stdafx.h(39,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  (소스 파일 '../../../plugins/dfsound/spu.c'을(를) 컴파일하는 중)
+  
+  xa.c
+D:\2024\psx\pcsxr\plugins\dfsound\stdafx.h(39,10): error C1083: 포함 파일을 열 수 없습니다. 'config.h': No such file or directory
+  (소스 파일 '../../../plugins/dfsound/xa.c'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
