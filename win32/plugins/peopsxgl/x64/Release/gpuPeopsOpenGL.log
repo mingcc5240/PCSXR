@@ -1,0 +1,43 @@
+﻿  pgxp_gpu.c
+  cfg.c
+  fps.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  key.c
+  (소스 파일 '../../../plugins/peopsxgl/pgxp_gpu.c'을(를) 컴파일하는 중)
+  
+D:\2024\psx\pcsxr\win32\plugins\peopsxgl\winsrc\cfg.c(24,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+D:\2024\psx\pcsxr\win32\plugins\peopsxgl\winsrc\fps.c(27,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+D:\2024\psx\pcsxr\win32\plugins\peopsxgl\winsrc\key.c(27,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  ssave.c
+D:\2024\psx\pcsxr\win32\plugins\peopsxgl\winsrc\ssave.c(27,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  winmain.c
+D:\2024\psx\pcsxr\win32\plugins\peopsxgl\winsrc\winmain.c(27,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  draw.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  (소스 파일 '../../../plugins/peopsxgl/draw.c'을(를) 컴파일하는 중)
+  
+  gpu.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  (소스 파일 '../../../plugins/peopsxgl/gpu.c'을(를) 컴파일하는 중)
+  
+  gte_accuracy.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  (소스 파일 '../../../plugins/peopsxgl/gte_accuracy.c'을(를) 컴파일하는 중)
+  
+  menu.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  (소스 파일 '../../../plugins/peopsxgl/menu.c'을(를) 컴파일하는 중)
+  
+  prim.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  (소스 파일 '../../../plugins/peopsxgl/prim.c'을(를) 컴파일하는 중)
+  
+  soft.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  (소스 파일 '../../../plugins/peopsxgl/soft.c'을(를) 컴파일하는 중)
+  
+  texture.c
+D:\2024\psx\pcsxr\plugins\peopsxgl\stdafx.h(62,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  (소스 파일 '../../../plugins/peopsxgl/texture.c'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
